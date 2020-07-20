@@ -1,4 +1,4 @@
-# HelloWifi
+# HelloWifi v3.1
 written years ago. uploaded as part of me uploading all my old projects\
 HelloWifi V3.1 mass handshake capture tool\
 THIS PROGRAM WAS WRITTEN AS A PROOF OF CONCEPT. DONT USE IT. I ACCEPT NO RESPONSIBILITY FOR YOUR ACTIONS.\
